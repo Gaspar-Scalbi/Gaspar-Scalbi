@@ -18,16 +18,16 @@
 
 ---
 
-## 🧑‍💻 Tecnologías y Herramientas
+## 🛠 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,js,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,python,git,github" />
 </p>
 
-- **Lenguajes:** C#, SQL, JavaScript (básico), Python (básico).  
-- **Frameworks:** .NET, Entity Framework Core.  
-- **Bases de datos:** SQL Server, SQLite.  
-- **Control de versiones:** Git & GitHub.  
+- **Lenguajes:** C#, SQL, JavaScript (básico), Python (básico)  
+- **Frameworks:** .NET, Entity Framework Core  
+- **Bases de datos:** SQL Server, (SQLite – nivel introductorio)  
+- **Control de versiones:** Git & GitHub  
 
 ---
 
@@ -39,6 +39,7 @@
 ---
 
 ## 📫 Contacto
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gasparscalbi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
