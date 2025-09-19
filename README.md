@@ -48,7 +48,7 @@
 
 ## 🌍 Idiomas
 - **Inglés (B2 – Cambridge FCE):** lectura de documentación técnica, redacción y comunicación profesional básica.
-- 
+- **Español (Nativo).
 ---
 
 ## 📫 Contacto
