@@ -1,6 +1,6 @@
 # 👋 Soy Gaspar Scalbi
 
-🎓 Estudiante de Ingeniería en Sistemas (UAI - 2° año)  
+🎓 Estudiante de Ingeniería en Sistemas  
 💻 Programador Jr. orientado a **C#/.NET, SQL Server y Entity Framework**  
 🚀 Interesado en desarrollo web (JavaScript, Node.js y bases de datos)  
 
@@ -47,9 +47,8 @@
 ---
 
 ## 🌍 Idiomas
-- **Español (Nativo):** comunicación fluida y natural, tanto oral como escrita.  
-- **Inglés (B2 – Cambridge FCE):** lectura de documentación técnica, redacción y comunicación profesional básica.  
-
+- **Inglés (B2 – Cambridge FCE):** lectura de documentación técnica, redacción y comunicación profesional básica.
+- 
 ---
 
 ## 📫 Contacto
